@@ -19,7 +19,7 @@ A powerful, privacy-first local coding assistant powered by Qwen3-Coder-Next and
 
 ## 🎥 Demo
 
-![Demo](https://via.placeholder.com/800x400.png?text=Demo+Screenshot)
+![Demo](images/demo_screenshot.svg)
 
 *Example: Creating a FastAPI project with a single command*
 
